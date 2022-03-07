@@ -1,5 +1,21 @@
 # WrapperOfflineRemasteredV2
 This repo will let you bring some themes are are not on the original wrapper offline Themes such as... Community Library, Business Friendly, And Yugandar's world (my theme) so yeah... This will have working starters and your library importing to work and note: this mod will replace the original wrapper offline 3.0 that had too many bugs and localhost refused to connect... So yeah... Feel free to download it... And Joseph animate will add the files to this repo... So yeah...
+Note This
+-This LVM Will Replace The Wrapper Offline 3.0
+-This LVM Might Have Some Features Like The OG Wrapper Offline Don't Have
+-This LVM Contains Business Friendly Because (So many pepole in my comments) Requested to Add That Theme To Wrapper Offline!
+-This LVM Contains My Theme (Yugandar's World) On It
+-This LVM Contains The Community Library Theme
+-This LVM Will Have The Wrapper Offline's Default Voice Clip Workaround (By Default)
+-This LVM Will Have A Your Library Import BG'S And Sounds To Work
+-This LVM Will Have A Starter Saving Features
+Unlimited Starter Saving!
+-This LVM Will Have A Wrapper Offline 4 Schools Watermark By Default
+These Are The Following Features That U Won't See On OG Wrapper Offline!
+This Version is more stable than the OG Wrapper Offline
+
+This Note Is By Yugandar's World Animator!
+
 # Here's How My Theme Look Like In W:O Remastered V2!
 ![007](https://user-images.githubusercontent.com/85108105/156993684-e4082c5f-bb22-489a-b97a-2b1f4dc2f926.PNG)
 # Here's How The Watermarks Look Like In W:O Remastered V2!
