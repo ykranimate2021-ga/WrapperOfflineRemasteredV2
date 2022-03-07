@@ -15,13 +15,12 @@ This repo will let you bring some themes are are not on the original wrapper off
 # Here's How The Community Library Look Like W:O V2!
 ![006](https://user-images.githubusercontent.com/85108105/156993722-eb861b7d-13e3-4283-8359-3b8deabf3ef0.PNG)
 
-_____________________Developers Of This LVM W:O Remastered_____________________________
-
-____________________________________Joseph Animate 2021_____________________________
-_______________________________________Yugandar's World Animator_______________________
+----------------------------Developers Of This LVM W:O Remastered-----------------------------
+-------------------------------------------Joseph Animate 2021------------------------------
+-----------------------------------Yugandar's World Animator-------------------------------
 
 It Will Also Have Some Following Features!
-________________________Voice Clip Workaround__________________
+_______________________________________________________Voice Clip Workaround__________________
 ___________________________Your Library Importing BG'S & Music/Sound FX__________________
 ___________________________A Business Theme (Business Friendly Theme)__________________________
 _______________________________The Wrapper Watermark From Wrapper Offline For Schools____________________
@@ -29,5 +28,5 @@ _____________________________Community Library Theme____________________________
 ____________________________Yugandar's World Theme__________________________________________
 ____________________________Starter Saving & You Could Save It Unlimited Ammount Of Times!__________________________________________________
 
-                                                                                                                        So These Are Some Features That You Would Get On Wrapper Offline Remastered!
+So These Are Some Features That You Would Get On Wrapper Offline Remastered!
                                                                                                                         README BY: Yugandar's World Animator (Me)
