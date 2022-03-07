@@ -50,7 +50,7 @@ It Will Also Have Some Following Features!
 credits to making wrapper offline remastered version 2!
 | Name             | Contribution / Credits To All Of These Users                                          |
 | ---------------- | -------------------------------------------------------|
-| Joseph Animate 2022   | Starter Saving, Your Library Import                                    |
+| Joseph Animate   | Starter Saving, Your Library Import                                    |
 | Yugandar's World Animator       |The Maker Of Yugandar's World Theme On Wrapper Offline / The Maker Of Wrapper Offline Remastered!                                   |
 | KrisAnimate       |The Maker Of The TTS Importable Voice Clip Workaround                                 |
 | GoTest334 (PL)   | Current Project Lead                                   |
