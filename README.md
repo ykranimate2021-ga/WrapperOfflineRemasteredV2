@@ -15,18 +15,58 @@ This repo will let you bring some themes are are not on the original wrapper off
 # Here's How The Community Library Look Like W:O V2!
 ![006](https://user-images.githubusercontent.com/85108105/156993722-eb861b7d-13e3-4283-8359-3b8deabf3ef0.PNG)
 
-----------------------------Developers Of This LVM W:O Remastered-----------------------------
--------------------------------------------Joseph Animate 2021------------------------------
------------------------------------Yugandar's World Animator-------------------------------
+
 
 It Will Also Have Some Following Features!
-_______________________________________________________Voice Clip Workaround__________________
-___________________________Your Library Importing BG'S & Music/Sound FX__________________
-___________________________A Business Theme (Business Friendly Theme)__________________________
-_______________________________The Wrapper Watermark From Wrapper Offline For Schools____________________
-_____________________________Community Library Theme_____________________________________
-____________________________Yugandar's World Theme__________________________________________
-____________________________Starter Saving & You Could Save It Unlimited Ammount Of Times!__________________________________________________
+- A Voice Clip Workaround
+- Saving Starters
+- Community Library Theme
+- Your Library Import
+- Yugandar's World Theme
+- Business Friendly 
+
+
+
+
+
+
+
+credits to making wrapper offline remastered version 2!
+| Name             | Contribution                                           |
+| ---------------- | -------------------------------------------------------|
+| Joseph Animate 2022   | Starter Saving, Your Library Import                                    |
+| Yugandar's World Animator       |The Maker Of Yugandar's World Theme On Wrapper Offline / The Maker Of Wrapper Offline Remastered!                                   |
+| KrisAnimate       |The Maker Of The TTS Importable Voice Clip Workaround                                 |
+| GoTest334 (PL)   | Current Project Lead                                   |
+| Benson (D)       | Wrapper: Offline                                       |
+| NathanSaturnBOI  | Logo                                                   |
+| Blukas/GoTube (D)| Import idea, Mega Comedy World 2                       |
+| VisualPlugin     | Text to speech voices                                  |
+| xomdjl_          | VFProxy, Text to speech voices                         |
+| creepyjokes2000  | Waveform fix, improved actions                         |
+| JoshAnimate      | Headgear fix                                           |
+| RegularSpark     | Fixing 1.2.3 to actually work, truncated themelist     |
+| KrisAnimate      | Chromium parameter                                     |
+| narutofan420     | W:O installer and updater                              |
+| PoleyMagik       | Client Modifications                                   |
+
+These are unaffiliated people that they haven't directly done anything for the project (and probably don't even know it exists) but still deserve credit for their things. Kinda like a shoutout but in a project's readme. ***Please do not contact them about Wrapper: Offline.***
+| Name               | Contribution                     |
+| ------------------ | -------------------------------- |
+| Vyond              | Creators of the themes we love   |
+| http-party         | Creators of http-server          |
+| Stephan Brenner    | Creator of SilentCMD             |
+| vocatus            | Some of TronScript's batch code  |
+| ss64.com           | Incredible CMD info resource     |
+| robvanderwoude.com | Also amazing CMD info resource   |
+
+## Footnotes
+[1] - See <https://www.gnu.org/philosophy/free-sw.html> for a better definition of free software.
+
+
+
+
+
 
 So These Are Some Features That You Would Get On Wrapper Offline Remastered!
                                                                                                                         README BY: Yugandar's World Animator (Me)
