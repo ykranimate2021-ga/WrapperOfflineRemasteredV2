@@ -32,7 +32,7 @@ It Will Also Have Some Following Features!
 
 
 credits to making wrapper offline remastered version 2!
-| Name             | Contribution                                           |
+| Name             | Contribution / Credits To All Of These Users                                          |
 | ---------------- | -------------------------------------------------------|
 | Joseph Animate 2022   | Starter Saving, Your Library Import                                    |
 | Yugandar's World Animator       |The Maker Of Yugandar's World Theme On Wrapper Offline / The Maker Of Wrapper Offline Remastered!                                   |
@@ -64,9 +64,4 @@ These are unaffiliated people that they haven't directly done anything for the p
 [1] - See <https://www.gnu.org/philosophy/free-sw.html> for a better definition of free software.
 
 
-
-
-
-
-So These Are Some Features That You Would Get On Wrapper Offline Remastered!
-                                                                                                                        README BY: Yugandar's World Animator (Me)
+- README BY: Yugandar's World Animator (Me)
