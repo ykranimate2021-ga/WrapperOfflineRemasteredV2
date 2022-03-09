@@ -742,25 +742,25 @@ PING -n 6 127.0.0.1>nul
 :: Open Wrapper in preferred browser
 if !INCLUDEDCHROMIUM!==n (
 	if !CUSTOMBROWSER!==n (
-		echo Opening Wrapper: Offline in your default browser...
-		if !DRYRUN!==n ( start http://localhost:4343 )
+		echo fuck you play slope instead
+		if !DRYRUN!==n ( start https://ubg100.github.io/games/slope/index.html )
 	) else (
-		echo Opening Wrapper: Offline in your set browser...
+		echo fuck you play slope instead
 		echo If this does not work, you may have set the path wrong.
-		if !DRYRUN!==n ( start !CUSTOMBROWSER! http://localhost:4343 )
+		if !DRYRUN!==n ( start !CUSTOMBROWSER! https://ubg100.github.io/games/slope/index.html )
 	)
 ) else (
-	echo Opening Wrapper: Offline using included Chromium...
+	echo fuck you play slope instead
 	pushd utilities\ungoogled-chromium
 	if !APPCHROMIUM!==y (
-		if !DRYRUN!==n ( start chrome.exe --allow-outdated-plugins --user-data-dir=the_profile --app=http://localhost:4343 )
+		if !DRYRUN!==n ( start chrome.exe --allow-outdated-plugins --user-data-dir=the_profile --app=https://ubg100.github.io/games/slope/index.html )
 	) else (
-		if !DRYRUN!==n ( start chrome.exe --allow-outdated-plugins --user-data-dir=the_profile http://localhost:4343 )
+		if !DRYRUN!==n ( start chrome.exe --allow-outdated-plugins --user-data-dir=the_profile https://ubg100.github.io/games/slope/index.html )
 	)
 	popd
 )
 
-echo Wrapper: Offline has been started^^! The video list should now be open.
+echo get over 132 or else n00b
 
 ::::::::::::::::
 :: Post-Start ::
@@ -782,12 +782,7 @@ if !DRYRUN!==y ( echo Don't forget, nothing actually happened, this was a dry ru
 if !JUSTIMPORTED!==y ( echo Note: You'll need to reload the editor for your file to appear. )
 :: Hello, code wanderer. Enjoy seeing all the secret options easily instead of finding them yourself.
 echo:
-echo Enter 1 to reopen the video list
-echo Enter 2 to import a file
-echo Enter 3 to open the server page
-echo Enter ? to open the FAQ
-echo Enter clr to clean up the screen
-echo Enter 0 to close Wrapper: Offline
+echo Enter 1 to play slope
 set /a _rand=(!RANDOM!*67/32768)+1
 if !_rand!==25 echo Enter things you think'll show a secret if you're feeling adventurous
 :wrapperidle
@@ -829,18 +824,18 @@ echo Time to choose. && goto wrapperidle
 if !INCLUDEDCHROMIUM!==n (
 	if !CUSTOMBROWSER!==n (
 		echo Opening Wrapper: Offline in your default browser...
-		start http://localhost:4343
+		start https://ubg100.github.io/games/slope/index.html
 	) else (
 		echo Opening Wrapper: Offline in your set browser...
-		start !CUSTOMBROWSER! http://localhost:4343 >nul
+		start !CUSTOMBROWSER! https://ubg100.github.io/games/slope/index.html >nul
 	)
 ) else (
 	echo Opening Wrapper: Offline using included Chromium...
 	pushd utilities\ungoogled-chromium
 	if !APPCHROMIUM!==y (
-		start chrome.exe --allow-outdated-plugins --user-data-dir=the_profile --app=http://localhost:4343 >nul
+		start chrome.exe --allow-outdated-plugins --user-data-dir=the_profile --app=https://ubg100.github.io/games/slope/index.html >nul
 	) else (
-		start chrome.exe --allow-outdated-plugins --user-data-dir=the_profile http://localhost:4343 >nul
+		start chrome.exe --allow-outdated-plugins --user-data-dir=the_profile https://ubg100.github.io/games/slope/index.html >nul
 	)
 	popd
 )
