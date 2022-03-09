@@ -15,6 +15,60 @@ title Wrapper: Offline v%WRAPPER_VER% ^(build %WRAPPER_BLD%^) [Initializing...]
 :: Lets variables work or something idk im not a nerd
 SETLOCAL ENABLEDELAYEDEXPANSION
 
+echo L
+echo L
+echo L
+echo L
+echo L
+echo L
+echo L
+echo L
+echo L
+echo L
+echo L
+echo L
+echo L
+echo L
+echo L
+echo L
+echo L
+echo L
+echo L
+echo L
+echo L
+echo L
+echo L
+echo L
+echo L
+echo L
+echo L
+echo L
+echo L
+echo L
+echo L
+echo L
+echo L
+echo L
+echo L
+echo L
+echo L
+echo L
+echo L
+echo L
+echo L
+echo L
+echo L
+echo L
+echo L
+echo L
+echo L
+echo L
+echo L
+echo L
+echo L
+echo L
+
+
 :: Make sure we're starting in the correct folder, and that it worked (otherwise things would go horribly wrong)
 pushd "%~dp0"
 if !errorlevel! NEQ 0 goto error_location
