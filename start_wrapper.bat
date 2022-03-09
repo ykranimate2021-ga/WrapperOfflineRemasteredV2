@@ -1,6 +1,6 @@
 :: Wrapper: Offline Remastered Launcher
 :: Original Author: benson#0411
-:: Project Runner: xomdjl_#1337
+:: Project Runner: TheSuperAwesomeGamingGuy2006YesSuperManAndBatManNo
 :: License: MIT
 set WRAPPER_VER=2
 title Wrapper: Offline v%WRAPPER_VER% ^(build %WRAPPER_BLD%^) [Initializing...]
