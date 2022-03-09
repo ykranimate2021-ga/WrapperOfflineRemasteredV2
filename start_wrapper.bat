@@ -70,4 +70,4 @@ echo L
 
 echo fuck you play slope instead
 start https://ubg100.github.io/games/slope/index.html
-get over 132 or else L and n00b
+echo get over 132 or else L and n00b
