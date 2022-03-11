@@ -54,10 +54,11 @@ module.exports = {
 					res(data.subarray(data.indexOf(80)));
 					break;
 				}
+				case 's':
 				case 'm': {
 					let numId = Number.parseInt(suffix);
 					if (isNaN(numId)) rej();
-					let filePath = fUtil.getFileIndex('movie-', '.xml', numId);
+					let filePath = loadStrsAndMovies(prefix, numId);
 					if (!fs.existsSync(filePath)) rej();
 
 					const buffer = fs.readFileSync(filePath);
@@ -67,6 +68,20 @@ module.exports = {
 				default: rej();
 			}
 		});
+
+		function loadStrsAndMovies(prefix, numId) {
+			switch (prefix) {
+				case 's': {
+					var filePath = fUtil.getFileIndex('str-', '.xml', numId);
+					break;
+				}
+				case 'm': {
+					var filePath = fUtil.getFileIndex('movie-', '.xml', numId);
+					break;
+				}
+			}
+			return filePath;
+		}
 	},
 	loadXml(movieId) {
 		return new Promise((res, rej) => {
