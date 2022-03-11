@@ -12,14 +12,14 @@ module.exports = {
 	 */
 	save(sZip, thumb) {
 		return new Promise((res) => {
-            suffix = fUtil.getNextFileId('str-', '.xml');
+			suffix = fUtil.getNextFileId('str-', '.xml');
 			n = fUtil.getNextFileId('str-', '.xml');
 			const zip = nodezip.unzip(sZip);
-            const thumbFile = fUtil.getFileIndex('sthmb-', '.png', n);
+			const thumbFile = fUtil.getFileIndex('sthmb-', '.png', n);
 			fs.writeFileSync(thumbFile, thumb);
 			let path = fUtil.getFileIndex('str-', '.xml', suffix);
 			let writeStream = fs.createWriteStream(path);
-            parse.unpackZip(zip, thumb).then(data => {
+			parse.unpackZip(zip, thumb).then(data => {
 				writeStream.write(data, () => {
 					writeStream.close();
 					res('s-' + n);
@@ -36,12 +36,12 @@ module.exports = {
 		});
 	},
 	list() {
-        var table = [];
-        var ids = fUtil.getValidFileIndicies("str-", ".xml");
-        for (const i in ids) {
-            var id = `s-${ids[i]}`;
-            table.unshift({ id: id });
-        }
-        return table;
+		var table = [];
+		var ids = fUtil.getValidFileIndicies("str-", ".xml");
+		for (const i in ids) {
+			var id = `s-${ids[i]}`;
+			table.unshift({ id: id });
+		}
+		return table;
 	},
 }
