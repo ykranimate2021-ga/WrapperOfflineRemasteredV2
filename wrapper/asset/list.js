@@ -23,7 +23,7 @@ async function listAssets(data, makeZip) {
 		case 'movie': {
 			files = str.list();
 			xmlString = `${header}<ugc more="0">${files.map(v => `<movie id="${
-				v.id}" name="${v.name}" thumbnail_url="/starter_thumbs/${
+				v.id}" title="${v.id}" thumbnail_url="/starter_thumbs/${
 					v.id}.png" copyable="Y"><tags/></movie>`).join('')}</ugc>`;
 			break;
 		}
