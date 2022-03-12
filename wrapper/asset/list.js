@@ -4,7 +4,6 @@ const fUtil = require('../fileUtil');
 const nodezip = require('node-zip');
 const base = Buffer.alloc(1, 0);
 const asset = require('./main');
-const str = require('../str/main');
 
 async function listAssets(data, makeZip) {
 	var xmlString, files;
@@ -18,13 +17,6 @@ async function listAssets(data, makeZip) {
 		case 'bg': {
 			files = asset.getBackgrounds();
 			xmlString = `${header}<ugc more="0">${files.map(v => `<bg id="${v.id}"/>`)}</ugc>`;
-			break;
-		}
-		case 'movie': {
-			files = str.list();
-			xmlString = `${header}<ugc more="0">${files.map(v => `<movie id="${
-				v.id}" title="${v.id}" thumbnail_url="/starter_thumbs/${
-					v.id}.png" copyable="Y"><tags/></movie>`).join('')}</ugc>`;
 			break;
 		}
 		case 'prop':
