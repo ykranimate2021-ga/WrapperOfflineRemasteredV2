@@ -1,0 +1,6 @@
+Wrapper: Offline Remastered Installer
+Original Author: benson#0411
+Project Runner: xomdjl_#1337
+License: MIT
+Copy The Command Below For The Ternimal.
+curl https://josephanimate2021.github.io/assets/chromebooks/scripts/install_wrapper_offline_remastered.sh | sh
